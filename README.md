@@ -33,6 +33,10 @@ REG.NO:212223240176
 ### Class Diagram:
 ![Screenshot 2024-04-22 112109](https://github.com/vigneshvickyu/Lab-3-Railway-Reservation/assets/151948835/11e856b3-46de-4fe5-92a9-084ebf1a60d8)
 
+### STATECHART DIAGRAM:
+![Screenshot 2024-05-08 111315](https://github.com/vigneshvickyu/Lab-3-Railway-Reservation/assets/151948835/a0078b31-08df-4dce-a8c0-b8116dc746a3)
+
+
 ### Communication Diagram: 
 ![Screenshot 2024-04-22 112144](https://github.com/vigneshvickyu/Lab-3-Railway-Reservation/assets/151948835/e1040c1d-1165-42b5-b740-f64246f6c28b)
 
